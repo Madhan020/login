@@ -1,0 +1,14 @@
+label{
+    display: inline-block;
+    width: 100%;
+}
+button,input{
+    width: 100%;
+}
+.form{
+    padding: 100px;
+    width: 300px;
+    background-color: rgb(220, 247, 103);
+    margin: auto;
+    border: solid black;
+}
